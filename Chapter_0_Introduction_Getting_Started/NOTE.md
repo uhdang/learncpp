@@ -68,3 +68,11 @@ Step 6 & 7: Testing and Debugging
 # 0.6 - Installing an Integrated Development Environment (IDE)
 
 # 0.7 - Compiling your first program
+
+- HelloWorld.cpp
+
+# 0.8 - A few common C++ problems
+
+# 0.9 - Configuring your compiler: Build configurations
+
+# 0.10 - Configuring your compiler: Compiler extensions
