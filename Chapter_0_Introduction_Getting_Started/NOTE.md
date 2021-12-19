@@ -76,3 +76,7 @@ Step 6 & 7: Testing and Debugging
 # 0.9 - Configuring your compiler: Build configurations
 
 # 0.10 - Configuring your compiler: Compiler extensions
+
+# 0.11 - Configuring your compiler: Warning and error levels
+
+# 0.12 - Configuring your compiler: Choosing a laugnage standard
