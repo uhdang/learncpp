@@ -18,3 +18,10 @@
 ## Function
 - A collection of statements that executes sequentially.
 - Every C++ program must have a special function named ***main***. When the program is run, the statements inside of _main_ are executed in sequential order.
+
+# 1.2 Comments
+1. Comments should to describe _what_ the library, program or function does to give the user an idea of how the code is going to accomplish its goal without having to understand what each individual line of code does.
+2. _Within_ a library, program, or function, comments can be used to describe _how_ the code is going to accomplish its goal.
+3. At the statement level, comments could be used to explain 'Why'
+
+- Best Practice: Comment your code liberally, and write your comments as if speaking to someone who has no idea what the code does. Don’t assume you’ll remember why you made specific choices.
