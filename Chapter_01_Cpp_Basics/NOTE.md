@@ -25,3 +25,9 @@
 3. At the statement level, comments could be used to explain 'Why'
 
 - Best Practice: Comment your code liberally, and write your comments as if speaking to someone who has no idea what the code does. Don’t assume you’ll remember why you made specific choices.
+
+# 1.3 Introduction to objects and variables
+
+- an ***Object*** is a region of storage(usually memory) that has a value and other associated properties.
+- ***variable*** is a named object.
+- ***Identifier*** is the name of the object
