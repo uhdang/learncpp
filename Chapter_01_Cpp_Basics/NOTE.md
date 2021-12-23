@@ -31,3 +31,22 @@
 - an ***Object*** is a region of storage(usually memory) that has a value and other associated properties.
 - ***variable*** is a named object.
 - ***Identifier*** is the name of the object
+
+# 1.4 Variable assignment and initialization
+
+## Initialization
+
+[4 ways to initialize variables]
+1. int a; // no initializer
+2. int b = 5; // initializer after equal sign - ***Copy initialization***
+3. int c(6); // initializer in parenthesis - ***Direct initialization***
+4. int d { 7 } // initializer in braces - ***Brace initialization***
+
+Best Practice: Favor initialization using braces whenever possible. i.e. int width { 5 };
+
+## Initialize your variables
+int a = 5, b = 6; // copy initialization
+int c( 7 ), d( 8 ); // direct initialization
+int e { 9 }, f { 10 }; // brace initialization (preferred)
+
+Best Practice: Initialize your variables upon creation
