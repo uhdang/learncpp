@@ -90,3 +90,32 @@ int value1, value2	| Either	| Can be hard to differentiate between the two
 int numApples	    | Good	    | Descriptive
 int monstersKilled	| Good	    | Descriptive
 int x, y	        | Either	| Okay if use is trivial, bad otherwise
+
+# 1.8 Whitespace and basic formatting
+
+Best practice: Your lines should be no longer than 80 chars in length
+
+# 1.9 Intro to literals and operators
+```
+std::cout << "Hello world!";
+int x{ 5 };
+```
+
+What is 'literal' (literal constant)?
+- Just as "Hello World!" and 5 from above, it is a fixed value that has been inserted directly into the source code.
+- Literals and variables both have a value (and a type). However, the value of a literal is fixed and can’t be changed (hence it being called a constant), whereas the value of a variable can be changed through initialization and assignment.
+
+# 1.10 Introduction to expressiosn
+
+- An ***expression*** is a combination of literals, variables, operators, and function calls that can be executed to produce a singular value.
+- The process of executing an expression is called ***evaluation***, and the single value produced is called the ***result*** of the expression.
+
+Key insight: Wherever you can use a single value in C++, you can use an expression instead, and the expression will be evaluated to produce a single value.
+
+# 1.11 Developing your first program
+- ref: 1_11_multiply_by_2.cpp
+
+
+
+
+

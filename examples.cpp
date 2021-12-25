@@ -30,15 +30,28 @@ int three() {
     return 0;
 }
 
+int multiplyBy2() {
+    std::cout << "Enter an integer: ";
+    int x{ };
+    std::cin >> x;
+    std::cout << "Double that number is: " << x * 2 << "\n";
+    return 0;
+}
+
 
 
 int main()
 {
     // ====== 1.5 intro to iostream ======
-//    one()ㅓ;
+//    one();
 //    // ------ 2 ------
-    two();
+//    two();
 //    // ------ 3 ------
 //    three()
+
+    // ====== 1.11 ======
+    multiplyBy2();
+
+
 
 }
