@@ -55,3 +55,11 @@ Best Practice: Initialize your variables upon creation
 - refer to 1_5_intro_to_iostream.cpp
 
 Best Practice: Prefer '\n' over std::endl when outputting text to the console.
+
+# 1.6 Uninitialized variables and undefined behavior
+
+## Uninitialized variables
+Since there is no automatic initialization, the default value of the variable is whatever (garbage) value happens to already be in that memory location.
+
+## Undefined behavior
+- Take care to avoid all situations that result in undefeind behavior such as using unintialized variables

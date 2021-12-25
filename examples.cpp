@@ -35,7 +35,7 @@ int three() {
 int main()
 {
     // ====== 1.5 intro to iostream ======
-//    one();
+//    one()ㅓ;
 //    // ------ 2 ------
     two();
 //    // ------ 3 ------
