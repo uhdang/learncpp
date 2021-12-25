@@ -50,3 +50,8 @@ int c( 7 ), d( 8 ); // direct initialization
 int e { 9 }, f { 10 }; // brace initialization (preferred)
 
 Best Practice: Initialize your variables upon creation
+
+# 1.5 Introduction to iostream: cout, cin, and endl
+- refer to 1_5_intro_to_iostream.cpp
+
+Best Practice: Prefer '\n' over std::endl when outputting text to the console.
