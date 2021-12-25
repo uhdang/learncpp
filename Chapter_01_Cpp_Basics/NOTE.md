@@ -63,3 +63,30 @@ Since there is no automatic initialization, the default value of the variable is
 
 ## Undefined behavior
 - Take care to avoid all situations that result in undefeind behavior such as using unintialized variables
+
+# 1.7 Keywords and naming identifiers
+
+1) Identifier naming rule / best practice: 
+  - In general, snake_case OR CamelCase (intercapped)
+  - User-defined type (structs, classes, or enumerations): Start with a capital lettera
+
+2) Should avoid naming identifiers starting with an underscore, since they are reserved for OS, library, and/or compiler use.
+
+3) Your identifiers should make clear what the value they are holding means
+
+Examples of good and bad practice
+
+int ccount	        | Bad	    | What does the c before “count” stand for?
+int customerCount	| Good	    | Clear what we’re counting
+int i	            | Either	| Okay if use is trivial, bad otherwise
+int index	        | Either	| Okay if obvious what we’re indexing
+int totalScore	    | Either	| Okay if there’s only one thing being scored, otherwise too ambiguous
+int _count	        | Bad	    | Do not start names with underscore
+int count	        | Either	| Okay if obvious what we’re counting
+int data	        | Bad	    | What kind of data?
+int time	        | Bad	    | Is this in seconds, minutes, or hours?
+int minutesElapsed	| Good	    | Descriptive
+int value1, value2	| Either	| Can be hard to differentiate between the two
+int numApples	    | Good	    | Descriptive
+int monstersKilled	| Good	    | Descriptive
+int x, y	        | Either	| Okay if use is trivial, bad otherwise
