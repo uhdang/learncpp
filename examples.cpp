@@ -38,7 +38,27 @@ int multiplyBy2() {
     return 0;
 }
 
+int getValueFromUser()
+{
+    std::cout << "Enter an integer: ";
+    int input{};
+    std::cin >> input;
+    return input;
+}
 
+int getValueFromUser()
+{
+    std::cout << "Enter an integer: ";
+    int input{};
+    std::cin >> input;
+
+    return input;
+}
+
+void printDouble(int value)
+{
+    std::cout << value << " doubled is: " << value * 2 << '\n';
+}
 
 int main()
 {
@@ -48,10 +68,24 @@ int main()
 //    two();
 //    // ------ 3 ------
 //    three()
-
+//
     // ====== 1.11 ======
-    multiplyBy2();
-
-
+//    multiplyBy2();
+//
+    // ====== 2.2 ======
+//
+//    int x{ getValueFromUser() };
+//    int y{ getValueFromUser() };
+//
+//    std::cout << x << " + " << y << " = " << x + y << '\n';
+//    return 0;
+//
+    // ====== 2.3 ======
+//    int num { getValueFromUser() };
+//
+//    printDouble(num);
+//
+//    return 0;
+//
 
 }
