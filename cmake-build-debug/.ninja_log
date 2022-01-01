@@ -1,0 +1,17 @@
+# ninja log v5
+8	125	1640869599749881616	CMakeFiles/learncpp.dir/Chapter_02_Cpp_Basics_Functions_and_Files/readNumber/main.cpp.o	3252d4ca3aea9991
+4	1090	1640869600709259715	CMakeFiles/learncpp.dir/Chapter_00_Introduction_Getting_Started/HelloWorld.cpp.o	fa51b9c9b5dfb6a7
+4	1095	1640869600715165268	CMakeFiles/learncpp.dir/Chapter_01_Cpp_Basics/1_5_intro_to_iostream_02.cpp.o	7c2ddb00c638f3dc
+4	1096	1640869600716350372	CMakeFiles/learncpp.dir/Chapter_01_Cpp_Basics/1_5_intro_to_iostream_01.cpp.o	63792d4569976ca1
+4	1082	1640869600703163634	CMakeFiles/learncpp.dir/Chapter_01_Cpp_Basics/1_11_multiply_by_2.cpp.o	292f4b6799c4a6e4
+5	1060	1640869600681144036	CMakeFiles/learncpp.dir/Chapter_01_Cpp_Basics/1_6_uninitialized_variables_and_undefined_behavior.cpp.o	8ef04f74dddf8d56
+5	1107	1640869600729870303	CMakeFiles/learncpp.dir/Chapter_01_Cpp_Basics/summationAndSubtraction.cpp.o	56f237ce418ac247
+7	1103	1640869600724173936	CMakeFiles/learncpp.dir/Chapter_02_Cpp_Basics_Functions_and_Files/multipleCodeFiles/main.cpp.o	77c71cebacdbc80b
+19	666	1640866701651896131	CMakeFiles/learncpp.dir/Chapter_02_Cpp_Basics_Functions_and_Files/2_3_getValuesFromUser.cpp.o	7de7c1491546abf4
+5	1090	1640869600711065211	CMakeFiles/learncpp.dir/Chapter_02_Cpp_Basics_Functions_and_Files/multipleCodeFiles/input.cpp.o	838a27aee9096a9b
+8	1103	1640869600722785726	CMakeFiles/learncpp.dir/version_check.cpp.o	ede9ad883c8a209c
+9	1093	1640869600712716793	CMakeFiles/learncpp.dir/Chapter_02_Cpp_Basics_Functions_and_Files/2_2_function_return_values.cpp.o	a7e22e4702ef61db
+2	634	1640872094786437765	CMakeFiles/learncpp.dir/main.cpp.o	afa658658bc15e8d
+3	588	1640872014707068664	CMakeFiles/learncpp.dir/examples.cpp.o	692a4fbeb0e1a5a8
+6	1105	1640869600726862881	CMakeFiles/learncpp.dir/Chapter_02_Cpp_Basics_Functions_and_Files/readNumber/io.cpp.o	21180b8c68120786
+635	716	1640872094870155203	learncpp	96802c287e7ce49b
