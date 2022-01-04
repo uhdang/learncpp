@@ -4,14 +4,19 @@
 ## Table of Contents
 
 ### Chapter 0. Introduction / Getting Started
+- All covered
 
 ### Chapter 1. C++ Basics
+- All covered
 
 ### Chapter 2. C++ Basics: Functions and Files
+- All covered
 
 ### Chapter 3. Debugging C++ Programs
+- All covered
 
 ### Chapter 4. Fundamental Data Types
+- 4.1 - 4.5
 
 ### Chapter 5. Operators
 
