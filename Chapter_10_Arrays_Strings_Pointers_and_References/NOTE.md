@@ -35,3 +35,5 @@ int main()
 ```
 
 # 10.2 Arrays (Part II)
+
+Best practice: Explicitly initialize arrays, even if they would be initialized without an initializer list.:w
